@@ -10,6 +10,17 @@
 [Tweet 003](https://twitter.com/trobbierob/status/819390218260348929)
 
 
+### Day 4: January 12, 2017
+
+**Today's Progress:** Research
+
+**Thoughts:** I'm collecting resources to work on my Book Listing app. I've got a similiar project to work from, so if I can figure out how to search through that, then I know I can apply it to what I need to submit.
+
+**Links:**
+[Blog 004](https://knucklesandpalm.wordpress.com/2017/01/13/10-days/)
+[Tweet 004](https://twitter.com/trobbierob/status/819771585229832192)
+
+
 ### Day 2: January 10, 2017
 
 **Today's Progress:** I learned I need to learn about ArrayList

@@ -1,15 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 3: January 11, 2017
-
-**Today's Progress:** LoaderManager
-
-**Thoughts:** I tried to take a shortcut in learning how LoaderManager outperforms AsyncTask, but I didn't know enough about AsyncTask to do it. What I need to do... what I've been dreading to do, even though I know it has proven itself to work... is write it down. From start to finish, I have to map out the path the URL travels as I parse JSON, and create lists. From there, I can learn how to add the ability to search the app, then I can start on my own project.
-
-**Links:**
-[Tweet 003](https://twitter.com/trobbierob/status/819390218260348929)
-
-
 ### Day 4: January 12, 2017
 
 **Today's Progress:** Research
@@ -19,6 +9,17 @@
 **Links:**
 [Blog 004](https://knucklesandpalm.wordpress.com/2017/01/13/10-days/)
 [Tweet 004](https://twitter.com/trobbierob/status/819771585229832192)
+
+
+### Day 3: January 11, 2017
+
+**Today's Progress:** LoaderManager
+
+**Thoughts:** I tried to take a shortcut in learning how LoaderManager outperforms AsyncTask, but I didn't know enough about AsyncTask to do it. What I need to do... what I've been dreading to do, even though I know it has proven itself to work... is write it down. From start to finish, I have to map out the path the URL travels as I parse JSON, and create lists. From there, I can learn how to add the ability to search the app, then I can start on my own project.
+
+**Links:**
+[Tweet 003](https://twitter.com/trobbierob/status/819390218260348929)
+
 
 
 ### Day 2: January 10, 2017

@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 14, 2017
+
+**Today's Progress:** You'll find what you're looking for if you look hard enough.
+
+**Thoughts:** I went into today with the idea that I was overcomplicating things. Udacity likes to stretch you, but nothing more than they think you can handle. So, I decided to look through other Udacity courses to find the Sunshine app. Initially, when I started courses, I saw it as this giant app that would teach you a huge assortment of skills. But, the Nanodegree does the same thing and it keeps me more accountable to learn since I have to pay for it. After perusing through for a while, I found a section that broke down the AsyncTask, a few other heavy topics, and gave examples to work on. I feel better now. Time to take a break and enjoy life.
+
+**Links:**
+[Tweet 006](https://twitter.com/trobbierob/status/820363886591410176)
+[Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+
+
 ### Day 5: January 13, 2017
 
 **Today's Progress:** Mooore Research

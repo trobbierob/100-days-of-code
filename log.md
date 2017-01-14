@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 13, 2017
+
+**Today's Progress:** Mooore Research
+
+**Thoughts:** I think I'm onto something with searching through JSON by keywords, but I haven't tested anything out. Even though it hasn't been covered yet, I think I might need to jump ahead a few lessons and store the books in a SQLite database and search from there. This reminds me of when I had a Dictionary project in college. I can't remember if it actually compiled or not (probably not). Reading data from various sources seems to be a reoccurring roadblock. Could this be a setup?
+
+**Links:**
+[Tweet 005](https://twitter.com/trobbierob/status/820081207027363840)
+
+
 ### Day 4: January 12, 2017
 
 **Today's Progress:** Research

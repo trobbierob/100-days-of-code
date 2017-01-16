@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 15, 2017
+
+**Today's Progress:** Learned from Sunshine
+
+**Thoughts:** I went over a few early exercises with the Sunshine app to make sense of my own. There’s still a lot that I don’t understand, but as I read more code I think to myself, “Ohhh... so THAT’S how you do that.” Right now, I’ve got a basic setup with an EditText and a search button. I don’t think I’ll do anything fancy with this app except for maybe adding a spinner to change the number of results that appear. I do, however, think I’ll complete the rest of the Sunshine module so I understand the process more.
+
+**Links:**
+[Tweet 007](https://twitter.com/trobbierob/status/820835685577986048)
+[Github](https://github.com/trobbierob/booklisting)
+[Sunshine](https://github.com/udacity/Sunshine-Version-2/tree/2.07_build_url_with_params)
+
+
 ### Day 6: January 14, 2017
 
 **Today's Progress:** You'll find what you're looking for if you look hard enough.

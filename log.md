@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 16, 2017
+
+**Today's Progress:** Bird by Bird
+
+**Thoughts:** I have unsuccessfully tried to jump ahead my learning without filling in the holes. I’m looking around at all of these different classes and methods like, “???”. So, I need to do myself justice by working each exercise, and reading the comments so I know why things are/aren’t best practices. There’s nothing like practicing the wrong thing and assuming it’s right. Don’t do that.
+
+Not even for the vine.
+
+**Links:**
+[Tweet 008](https://twitter.com/trobbierob/status/821211985115250689)
+[Github](https://github.com/trobbierob/booklisting/commit/2bbc5f7a80bd71efaf40474e31dde4756138b614)
+
+
 ### Day 7: January 15, 2017
 
 **Today's Progress:** Learned from Sunshine
@@ -8,7 +21,7 @@
 
 **Links:**
 [Tweet 007](https://twitter.com/trobbierob/status/820835685577986048)
-[Github](https://github.com/trobbierob/booklisting)
+[Github](https://github.com/trobbierob/booklisting/commit/bc1d2eda0dacaa33b0685876b2709938f1fa7e95)
 [Sunshine](https://github.com/udacity/Sunshine-Version-2/tree/2.07_build_url_with_params)
 
 

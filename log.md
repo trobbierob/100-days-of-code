@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 17, 2017
+
+**Today's Progress:** S.D.W.
+
+**Thoughts:** Ummm... still trying to make things work. This is probably the worst commit ever, but I pushed it as a lesson to myself. Still don't know what's going on, but we will try again. I've got some Sunshine app madness woven in - don't judge me.
+
+**Links:**
+[Tweet 009](https://twitter.com/trobbierob/status/821558947391873033)
+[Github](https://github.com/trobbierob/booklisting/commit/a271933c899859a9c2ab27f12c250c43765d313b)
+
+
 ### Day 8: January 16, 2017
 
 **Today's Progress:** Bird by Bird

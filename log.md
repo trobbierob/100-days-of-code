@@ -8,6 +8,7 @@
 
 **Links:**
 [Tweet 010](https://twitter.com/trobbierob/status/821944960165539841)
+[Blog 010](https://knucklesandpalm.wordpress.com/2017/01/19/jsonned/)
 [Github](https://github.com/trobbierob/booklisting/commit/9df536c6e1f2cde22dfd762efe7223a79064b1d9)
 
 ### Day 9: January 17, 2017

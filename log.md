@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 18, 2017
+
+**Today's Progress:** I got JSONned...
+
+**Thoughts:** Not much progress today but I think I'm getting the hang of what I'm putting down. I'm just a few days away before I have to turn this project in. This is going to be interesting...
+
+**Links:**
+[Tweet 010](https://twitter.com/trobbierob/status/821944960165539841)
+[Github](https://github.com/trobbierob/booklisting/commit/9df536c6e1f2cde22dfd762efe7223a79064b1d9)
+
 ### Day 9: January 17, 2017
 
 **Today's Progress:** S.D.W.

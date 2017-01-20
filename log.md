@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 19, 2017
+
+**Today's Progress:** I am one with the Log, and the Log is with me.
+
+**Thoughts:** I finally got something to display on my app. I literally sat down, recreated a tutorial that I knew worked, and threw a bunch of log lines in so I could know what to expect to know my code was working. From there, I just did baby steps. Get the root. Make the object. Loop the array. This was soooo TOUGH! But, I was very persistent in getting the job done. I'm very proud. I still need to understand how to go about getting the "authors", but I will take this as a win for the day and relax. Also, I think this would be a good time to remove a lot of the commented out code I have. They didn't teach me git back in the day, so I have this silly fear of losing important lines unknowingly. 
+
+**Links:**
+[Tweet 011](https://twitter.com/trobbierob/status/822307682207965184)
+[Github](https://github.com/trobbierob/booklisting/commit/e1e4e5d223b86ca8597d8449dca22ea32ea7c92b)
+
+
 ### Day 10: January 18, 2017
 
 **Today's Progress:** I got JSONned...
@@ -10,6 +21,7 @@
 [Tweet 010](https://twitter.com/trobbierob/status/821944960165539841)
 [Blog 010](https://knucklesandpalm.wordpress.com/2017/01/19/jsonned/)
 [Github](https://github.com/trobbierob/booklisting/commit/9df536c6e1f2cde22dfd762efe7223a79064b1d9)
+
 
 ### Day 9: January 17, 2017
 

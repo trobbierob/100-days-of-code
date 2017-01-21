@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 20, 2017
+
+**Today's Progress:** Plain
+
+**Thoughts:** Ever since I did my last project with more features than necessary, I've been going back and forth with the idea to make this app plain. It's only asking for the author's name and the title of the book. Even in the instructions, the main focus is the Java aspect. I'll figure out something nice. 
+
+**Links:**
+[Tweet 012](https://twitter.com/trobbierob/status/822707706112839681)
+
+
 ### Day 11: January 19, 2017
 
 **Today's Progress:** I am one with the Log, and the Log is with me.

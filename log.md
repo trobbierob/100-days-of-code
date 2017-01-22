@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 21, 2017
+
+**Today's Progress:** ListView
+
+**Thoughts:** In the beginning of the day, I had this issue where I would search for a book, and then the new results would show up on top of the old ones. I didn't really see that as a problem at first until I made some unspecified change and the newer results started showing up on the bottom of the book. That made it quite tough for testing, especially since I didn’t know what was going on at first. That led me to finding out a way to clear the list each time a new search is made. I thought just making the adapter null would do the trick, but I was placing the statements in the wrong place. Eventually I found a stackoverflow post that put me in the right direction and that was the end of it. I’m beginning to think there aren’t any real coders. There’s just the imaginary beings of Stackoverflow. 
+
+**Links:**
+[Tweet 013](https://twitter.com/trobbierob/status/822889847798960128)
+[Github](https://github.com/trobbierob/booklisting/commit/c5b8686b0cb91875f27a50b23ba599cce626a68e)
+
+
 ### Day 12: January 20, 2017
 
 **Today's Progress:** Plain

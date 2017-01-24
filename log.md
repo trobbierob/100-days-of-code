@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 23, 2017
+
+**Today's Progress:** Project II
+
+**Thoughts:** I made some changes to my project to display an empty view when no results of books appear. As I work more and more on these projects, you learn the details are truly important. It's amazing all of the work that goes into an app (including the ones that don't work). I honestly can't tell which is tougher between the logic or the UI/UX. I've probably submitted my project three times already, but it's really this kind of feedback that pushes you to think different. I'm not just making an app for myself, I need to always consider a larger mixed audience. The next thing I should be picky about is how I want my READMEs to look. I think it would do some good to go through my repos and make things all pretty-like.
+
+Oh, I added a link that my reviewer sent me that's dedicated to Empty States.
+
+**Links:**
+[Tweet 015](https://twitter.com/trobbierob/status/823732933571805184)
+[Github](https://github.com/trobbierob/booklisting/commit/663e2e2a69009efc19e5068ea0b2817232c3a944)
+[Empty State](http://emptystat.es/)
+
 ### Day 14: January 22, 2017
 
 **Today's Progress:** Project

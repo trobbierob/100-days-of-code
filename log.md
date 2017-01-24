@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 24, 2017
+
+**Today's Progress:** Moving Forward
+
+**Thoughts:** After four reviews, we got the project approved. This next project is quite similar to the Book Listing, only it requires the more upgraded methods/classes that I was trying to skip ahead and learn from before. Loaders are coming to town. And, now that we know about them, Empty States are coming to town - the real kind (#NoTextViews). I'm going to get my code skeleton together, and start drawing out how I want this to look. Let's see if I can get a nice MVP going before January ends.
+
+**Links:**
+[Tweet 016](https://twitter.com/trobbierob/status/824022722497888256)
+[Github](https://github.com/trobbierob/booklisting)
+
+
 ### Day 15: January 23, 2017
 
 **Today's Progress:** Project II
@@ -12,6 +23,7 @@ Oh, I added a link that my reviewer sent me that's dedicated to Empty States.
 [Tweet 015](https://twitter.com/trobbierob/status/823732933571805184)
 [Github](https://github.com/trobbierob/booklisting/commit/663e2e2a69009efc19e5068ea0b2817232c3a944)
 [Empty State](http://emptystat.es/)
+
 
 ### Day 14: January 22, 2017
 

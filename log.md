@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 22, 2017
+
+**Today's Progress:** Project
+
+**Thoughts:** I spent the day working on my Project. I did an initial submission with what I had just to see where I was at with the specifications (I went into it knowing I would need to resubmit it later). I think it would be good for me to get involved with something similar. I remember when I took my first Java class and my professor created a Java lab where we would fix bugs in each other's code. I don't think anything accelerated my learning more than that.
+
+Bugs are friends, not food. 
+
+**Links:**
+[Tweet 014](https://twitter.com/trobbierob/status/823589703643369472)
+[Github](https://github.com/trobbierob/booklisting/commit/35ae7d19deee5ae062fbb7bc89fcad22e3cf2a38)
+
+
 ### Day 13: January 21, 2017
 
 **Today's Progress:** ListView

@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 25, 2017
+
+**Today's Progress:** News App Shell
+
+**Thoughts:** I think I understand how to go about this app, but it does have a few slight particulars for me to understand first. It will do me good to focus on building small projects dealing with Loaders, SearchViews and a JSON class, to get a full understanding of what needs to happen before I start spewing code out.
+
+**Links:**
+[Tweet 017](https://twitter.com/trobbierob/status/824432355611926528)
+[Blog 017](https://knucklesandpalm.wordpress.com/2017/01/26/1-25-17/)
+[Github](https://github.com/trobbierob/news-app/commit/34c061f92c65bba96eeed5cfe19fbca2b373d6b3)
+
+
 ### Day 16: January 24, 2017
 
 **Today's Progress:** Moving Forward

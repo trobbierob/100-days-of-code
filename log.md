@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 27, 2017
+
+**Today's Progress:** Loaders
+
+**Thoughts:** I've been thinking a lot about Loaders lately. I haven't used one yet, so I started looking for tutorials >>[CP](http://www.concretepage.com/android/android-asynctaskloader-example-with-listview-and-baseadapter). I've also entertained the idea of starting my project with an AsyncTask and then turning it into an AsyncTaskLoader. It's probably unnecessary, so the right thing to do would be 1) try a few tutorials, and 2) draft how my project fits in with it. In some ways I still feel a bit illiterate when it comes to reading from the [developer page](https://developer.android.com/reference/android/content/AsyncTaskLoader.html), so it’s not always the best resource for me.
+
+It’s on my to-learn list.
+
+**Links:**
+[Tweet 019](https://twitter.com/trobbierob/status/825192454861225984)
+
+
+### Day 18: January 26, 2017
+
+**Today's Progress:** Git
+
+**Thoughts:** I'm really interested in making myself more comfortable using git & GitHub, so I took a quick [Codecademy](codecademy.com) lesson. I think what makes it a bit tougher is that Android Studio is integrated with GitHub. I really only need to connect the project that I'm working on to the repository and after that, I'm pretty much done. So far, I haven't had a reason to make new branches, or reset anything. This probably means I need to pickup another main language to play around with to get more practice.
+
+**Links:**
+[Tweet 018](https://twitter.com/trobbierob/status/824797797702582272)
+
+
 ### Day 17: January 25, 2017
 
 **Today's Progress:** News App Shell

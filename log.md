@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 29, 2017
+
+**Today's Progress:** Wrong Window
+
+**Thoughts:** I decided to finally put some code down, and I was looking to trace why my JSON strings wouldn't appear. Hours later, after a break, after dinner, I realized I was looking at the wrong window. Smh.
+
+**Links:**
+[Tweet 021](https://twitter.com/trobbierob/status/825901805833969664)
+
+
+### Day 20: January 28, 2017
+
+**Today's Progress:** Api Key
+
+**Thoughts:** Today I went to a cryptoparty to see if they had a special workshop for journalists and what not. I'm not a journalist, but I thought it would be interesting to learn new digital tricks to keep myself safe out there in the digital world. Since it's also a place where people work on projects, I decided to work on mine, and I came across an article on how to [hide api keys](http://www.androidauthority.com/how-to-hide-your-api-key-in-android-600583/). It's probably not totally necessary right now, but I do see the value in learning how to do it. The Saturday cryptos are probably the best resource for me to figure out and try new things with folks, but I do feel a little intimidated because their minds and fingers are on a whole other level.
+
+Subconsciously that’s probably why I go - to get pulled up.
+
+**Links:**
+[Tweet 020](https://twitter.com/trobbierob/status/825525732562567169)
+
+
 ### Day 19: January 27, 2017
 
 **Today's Progress:** Loaders

@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 30, 2017
+
+**Today's Progress:** Blank Bot
+
+**Thoughts:** I stopped earlier than I normally would in the morning. I got blocked by a blank listview that I couldn't wrap my head around. It's actually something I came in contact with a long time ago, but for whatever reason, it seems like a different scenario. So, I decided to just stop, reach out to a Udacity mentor, and we will go over it the next day. 
+
+I started reading the blog post [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.9of99l8j3) and I tried to make my first bot. The bot part didn't work out so well, but I think I just need to give it some time and another shot.
+
+**Links:**
+[Tweet 022](https://twitter.com/trobbierob/status/826247949407617025)
+
+
 ### Day 21: January 29, 2017
 
 **Today's Progress:** Wrong Window
@@ -8,6 +20,7 @@
 
 **Links:**
 [Tweet 021](https://twitter.com/trobbierob/status/825901805833969664)
+[GitHub](https://github.com/trobbierob/news-app/commit/7ffae5310d348d2f8d1230facd3bbd40068ffce4)
 
 
 ### Day 20: January 28, 2017
@@ -53,7 +66,7 @@ It’s on my to-learn list.
 **Links:**
 [Tweet 017](https://twitter.com/trobbierob/status/824432355611926528)
 [Blog 017](https://knucklesandpalm.wordpress.com/2017/01/26/1-25-17/)
-[Github](https://github.com/trobbierob/news-app/commit/34c061f92c65bba96eeed5cfe19fbca2b373d6b3)
+[GitHub](https://github.com/trobbierob/news-app/commit/34c061f92c65bba96eeed5cfe19fbca2b373d6b3)
 
 
 ### Day 16: January 24, 2017
@@ -64,7 +77,7 @@ It’s on my to-learn list.
 
 **Links:**
 [Tweet 016](https://twitter.com/trobbierob/status/824022722497888256)
-[Github](https://github.com/trobbierob/booklisting)
+[GitHub](https://github.com/trobbierob/booklisting)
 
 
 ### Day 15: January 23, 2017
@@ -77,7 +90,7 @@ Oh, I added a link that my reviewer sent me that's dedicated to Empty States.
 
 **Links:**
 [Tweet 015](https://twitter.com/trobbierob/status/823732933571805184)
-[Github](https://github.com/trobbierob/booklisting/commit/663e2e2a69009efc19e5068ea0b2817232c3a944)
+[GitHub](https://github.com/trobbierob/booklisting/commit/663e2e2a69009efc19e5068ea0b2817232c3a944)
 [Empty State](http://emptystat.es/)
 
 
@@ -91,7 +104,7 @@ Bugs are friends, not food.
 
 **Links:**
 [Tweet 014](https://twitter.com/trobbierob/status/823589703643369472)
-[Github](https://github.com/trobbierob/booklisting/commit/35ae7d19deee5ae062fbb7bc89fcad22e3cf2a38)
+[GitHub](https://github.com/trobbierob/booklisting/commit/35ae7d19deee5ae062fbb7bc89fcad22e3cf2a38)
 
 
 ### Day 13: January 21, 2017
@@ -102,7 +115,7 @@ Bugs are friends, not food.
 
 **Links:**
 [Tweet 013](https://twitter.com/trobbierob/status/822889847798960128)
-[Github](https://github.com/trobbierob/booklisting/commit/c5b8686b0cb91875f27a50b23ba599cce626a68e)
+[GitHub](https://github.com/trobbierob/booklisting/commit/c5b8686b0cb91875f27a50b23ba599cce626a68e)
 
 
 ### Day 12: January 20, 2017
@@ -123,7 +136,7 @@ Bugs are friends, not food.
 
 **Links:**
 [Tweet 011](https://twitter.com/trobbierob/status/822307682207965184)
-[Github](https://github.com/trobbierob/booklisting/commit/e1e4e5d223b86ca8597d8449dca22ea32ea7c92b)
+[GitHub](https://github.com/trobbierob/booklisting/commit/e1e4e5d223b86ca8597d8449dca22ea32ea7c92b)
 
 
 ### Day 10: January 18, 2017
@@ -135,7 +148,7 @@ Bugs are friends, not food.
 **Links:**
 [Tweet 010](https://twitter.com/trobbierob/status/821944960165539841)
 [Blog 010](https://knucklesandpalm.wordpress.com/2017/01/19/jsonned/)
-[Github](https://github.com/trobbierob/booklisting/commit/9df536c6e1f2cde22dfd762efe7223a79064b1d9)
+[GitHub](https://github.com/trobbierob/booklisting/commit/9df536c6e1f2cde22dfd762efe7223a79064b1d9)
 
 
 ### Day 9: January 17, 2017
@@ -146,7 +159,7 @@ Bugs are friends, not food.
 
 **Links:**
 [Tweet 009](https://twitter.com/trobbierob/status/821558947391873033)
-[Github](https://github.com/trobbierob/booklisting/commit/a271933c899859a9c2ab27f12c250c43765d313b)
+[GitHub](https://github.com/trobbierob/booklisting/commit/a271933c899859a9c2ab27f12c250c43765d313b)
 
 
 ### Day 8: January 16, 2017
@@ -159,7 +172,7 @@ Not even for the vine.
 
 **Links:**
 [Tweet 008](https://twitter.com/trobbierob/status/821211985115250689)
-[Github](https://github.com/trobbierob/booklisting/commit/2bbc5f7a80bd71efaf40474e31dde4756138b614)
+[GitHub](https://github.com/trobbierob/booklisting/commit/2bbc5f7a80bd71efaf40474e31dde4756138b614)
 
 
 ### Day 7: January 15, 2017
@@ -170,7 +183,7 @@ Not even for the vine.
 
 **Links:**
 [Tweet 007](https://twitter.com/trobbierob/status/820835685577986048)
-[Github](https://github.com/trobbierob/booklisting/commit/bc1d2eda0dacaa33b0685876b2709938f1fa7e95)
+[GitHub](https://github.com/trobbierob/booklisting/commit/bc1d2eda0dacaa33b0685876b2709938f1fa7e95)
 [Sunshine](https://github.com/udacity/Sunshine-Version-2/tree/2.07_build_url_with_params)
 
 

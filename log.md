@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 1, 2017
+
+**Today's Progress:** Nothing much
+
+**Thoughts:** I really didn't do too much today. I had this crazy idea that I could easily refactor my AsyncTask into an AsyncTaskLoader, but that wasn't the case. It's probably due to the way that I coded it in the first place. I wish I had those Ironman holograms, you know the ones where he could view and slim down his armor. I need that for code. I wonder if people cut strips of their code and move them around to try out new things. I wonder what I should call it. Snippet building? Snippr? Snip Coding?
+
+**Links:**
+[Tweet 024](https://twitter.com/trobbierob/status/826997991051522048)
+
+
+### Day 23: January 31, 2017
+
+**Today's Progress:** ???
+
+**Thoughts:** I had a 1-1 with a Udacity mentor to go over my project. I was trying to figure out why my Book Listing app worked, but not my News app with seemingly the same code. The solution happened to be a minor flub with a HashMap. I was basically assigning a value to a String when I should have assigned it to a key. At least now it’s working. It’s time to shake things up and break it all over again.
+
+**Links:**
+[Tweet 023](https://twitter.com/trobbierob/status/826574984176877568)
+
+
 ### Day 22: January 30, 2017
 
 **Today's Progress:** Blank Bot

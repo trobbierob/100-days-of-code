@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 3, 2017
+
+**Today's Progress:** I mean, it works
+
+**Thoughts:** After I made my branch yesterday, I took some time out to write what I wanted to type by hand. I read a part of a program to understand how data traveled through it, and went to my own to see where I could do better. I was quite happy to notice that I didn't have any weird errors. The only thing my Loader doesn't do, is save my data when I rotate the screen. So, once I fix that, I can merge that branch and start a new one where I implement the SearchView for the first time.
+
+It's a good feeling to see how far I came. I literally tried my first Android course on a whim, and now I'm almost done with the Nanodegree. From there I will hopefully get into the Android Developer Nanodegree, and work on some really awesome projects. I already have an idea for my final project. 
+
+Keep moving forward.
+
+**Links:**
+[Tweet 026](https://twitter.com/trobbierob/status/827655845462827009)
+
+
+### Day 25: February 2, 2017
+
+**Today's Progress:** Branches aka Young Hashirama
+
+**Thoughts:** A little while ago I started looking at the several windows at the bottom of Android Studio. There's Run, TODO, Terminal, Version Control, and a few others, but the only two I ever paid attention to were Run - because I need to know what's happening as I run my program, and TODO - because it puts my exercises in a nice list for me. I saw Terminal but I never gave it much thought. I didn't really see the value in it at first because I would use the actual Terminal to connect my project to my repository. Then randomly yesterday, I thought to myself, "What if I can use it to make branches?" Why would I want to make branches? Well, I wanted to get myself into the habit of actually using version control, instead of using commented out code to make adjustsments. This is all pretty new to me. When I took my Java courses in college, there was no talk of Git, or any form of version control. My first and favorite professor expected us to start everything by hand. My second instructor put us in groups had us head straight for the computer.
+
+In my News App, I got it to the point where it worked with an AsyncTask, and instead of commenting out a bunch of code, I thought it would just be smarter (and better practice) to use the technology in front of me. I took Udacity's Git course a few months back, but only really used it to commit changes, and at one point I would commit the whole project at the end when I completed it. Now I'm slowly weaving it into my daily habits so I can be of some service if I ever plan to make it as a developer, or a mentor to someone else.
+
+**Links:**
+[Tweet 025](https://twitter.com/trobbierob/status/827290570703896582)
+
+
 ### Day 24: February 1, 2017
 
 **Today's Progress:** Nothing much

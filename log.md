@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 4, 2017
+
+**Today's Progress:** My brain hurts
+
+**Thoughts:** There's a part of me that feels that I'm just following instructions versus actually coding (which I think is actually the case). I would like to be able to whip methods out of thin air, but I think I'm surrounded by too many unknown unknowns. I think I'll take a project break and work on some general Java exercises.
+
+**Links:**
+[Tweet 027](https://twitter.com/trobbierob/status/828044038423138305)
+[GitHub](https://github.com/trobbierob/news-app/commit/1c5912a810143fdad0cd398fb8dc7bcc203367ce)
+
+
 ### Day 26: February 3, 2017
 
 **Today's Progress:** I mean, it works

@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 8, 2017
+
+**Today's Progress:** Coders Block
+
+**Thoughts:** I feel like I'm in this weird zone where I don't know what to do. I know what I "want" to happen. I've actually done it in an earlier app. But, I'm not sure as to how to go about it with this one. A part of me feels like I need to take a break, and the other part feels like I'm not thinking creatively enough. Not totally sure who is going to win that particular battle. My project is due on the 12th. All I need to do is create a detailed view for my list items to open into. I did it once in my New York app. The only difference is that I knew ahead of time how many list items I would have.
+
+On the plus side, I’ve started using branches in the built-in Android Terminal. I’m on my way to be a Git/GitHub master - if there’s such a thing.
+
+**Links:**
+[Tweet 031](https://twitter.com/trobbierob/status/829527916052611075)
+[GitHub](https://github.com/trobbierob/news-app/commit/1b5ecb6decef6c3f7350dd9de9e6158e9cc5791c)
+[New York App](https://github.com/trobbierob/New-York)
+
+
+### Day 30: February 7, 2017
+
+**Today's Progress:** Intents
+
+**Thoughts:** I've been dealing with a slight mental block, so I decided to see how to implement intents in the best way into my app. That led me to realize that I needed an adapter, and that led me to realize that I needed more practice.
+
+**Links:**
+[Tweet 030](https://twitter.com/trobbierob/status/829191684978262016)
+
+
+### Day 29: February 6, 2017
+
+**Today's Progress:** Rotate It
+
+**Thoughts:** I was trying out several ways to see how to get my app to rotate and retain all of the information. Android destroys and recreates the activity on rotation, which is fine, but as a user it would make someone leave your app for another one.
+
+**Links:**
+[Tweet 029](https://twitter.com/trobbierob/status/828797588392595457)
+[GitHub](https://github.com/trobbierob/news-app/commit/1c5912a810143fdad0cd398fb8dc7bcc203367ce)
+
+
+### Day 28: February 5, 2017
+
+**Today's Progress:** Exercise
+
+**Thoughts:** Didn't have a real project goal in mind, so I tried a few Java exercises to get my mind going. Probably made it worse.
+
+**Links:**
+[Tweet 028](https://twitter.com/trobbierob/status/828460764809801728)
+
+
 ### Day 27: February 4, 2017
 
 **Today's Progress:** My brain hurts

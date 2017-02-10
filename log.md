@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 9, 2017
+
+**Today's Progress:** Bird by Bird
+
+**Thoughts:** I'm taking it back with solving small problems before I just jump in and throw some code in. For a while, I thought I needed to create an detailed activity view of my list item, but it looks like I only need to open the article. So, the first thing I decided to do was to see if I knew the position of the list item. I figure if I know that, I can create a way to generate the necessary url to take the user to the article they want. I also need to add a few more things, but I'm just looking for the MVP right now. I can clean it up later after it all works.
+
+**Links:**
+[Tweet 032](https://twitter.com/trobbierob/status/829898904065998848)
+[GitHub](https://github.com/trobbierob/news-app/commit/d2f048cdff13c973bcf8800bc6a13d5dd611284e)
+
+
 ### Day 31: February 8, 2017
 
 **Today's Progress:** Coders Block

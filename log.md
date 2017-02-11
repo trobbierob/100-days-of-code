@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 10, 2017
+
+**Today's Progress:** It Works! (kinda)
+
+**Thoughts:** So, I've got my app pretty much where I want it. A user can type in a word or phrase and find news articles relating to it, and if they click an article from the list, it will take them to the webpage to read more about it. The only problem that I have is that the app will crash if you return to the app after checking out an article. Totally not supposed to happen, but hey, it’s a start. It’s due on Sunday, so I’ve got some time to check my code and find some best practices when it comes to loaders and asynctasks. I think a well placed method on the background thread is really all I need.
+
+**Links:**
+[Tweet 033](https://twitter.com/trobbierob/status/830278054236807169)
+[GitHub](https://github.com/trobbierob/news-app/commit/d0d01b03a373b4dfe0148dba6f7634b66d9aee10)
+
+
 ### Day 32: February 9, 2017
 
 **Today's Progress:** Bird by Bird

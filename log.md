@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 11, 2017
+
+**Today's Progress:** MVP (Minimum Viable Product)
+
+**Thoughts:** I turned my project in today. I was expecting to get it rejected. I think it passed because I technically fulfilled all of the requirements. I needed a list. I needed to parse data from the Guardian api. And, I needed to use a Loader instead of an AsyncTask. Since I did all of that. I guess that fact that my app had one bug (annoying to me probably more than anything else) wasn’t such a big deal. I also got some great advice to rewrite other aspects more efficiently. 
+
+After this Nanodegree, I think I’m going to take between a couple of weeks to a month to work solely on Java. Right now my Java is just passable. I feel like I’m not really understanding what I’m using, but at the same time I would have to understand it to a degree in order to use it in the first place. I’ll likely use a mix of my old book, hopefully an online resource, and a few websites like HackerRank and CodeWars for problem solving. 
+
+I feel very serious about this developer thing, so I need to get in as much practice as possible. After my Java training, I’ll enroll into the Android Developer Nanodegree Plus and hopefully earn a job in the end.
+
+**Links:**
+[Tweet 034a](https://twitter.com/trobbierob/status/830642363873755136)
+[Tweet 034b](https://twitter.com/trobbierob/status/830523600025292800)
+[GitHub](https://github.com/trobbierob/news-app)
+
+
 ### Day 33: February 10, 2017
 
 **Today's Progress:** It Works! (kinda)

@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 12, 2017
+
+**Today's Progress:** SQLite
+
+**Thoughts:** I finally got to the section of the Nanodegree where they introduce databases. I've always been curious about data persistence and here's my chance to check it out. Even more important, the fun teachers are guiding this part of the course. I felt like that last bit was a very dry topic, taught by dry people (no offense). However, they did stretch my mind to figuring out the hardest aspects of loaders and asynchronus processes. I'll give them that…
+
+I’m debating on if I should head over to Codecademy and work on the SQL course, or if what I’ll learn in the tutorial will be sufficient. I think the right thing to do is to always get more information if possible. So after I finish the two sections in this course, I’ll head over and strengthen the foundation. I should probably take a look at SharedPreferences as well.
+
+**Links:**
+[Tweet 035](https://twitter.com/trobbierob/status/830932863340142592)
+
+
 ### Day 34: February 11, 2017
 
 **Today's Progress:** MVP (Minimum Viable Product)

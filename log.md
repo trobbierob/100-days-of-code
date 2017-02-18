@@ -18,7 +18,7 @@
 
 I ended up meeting another developer, Suree (sp? - so sorry), who works on a cruise app, and we ended up chatting it up about bootcamps, the fears of networking, and few other topics. For once, although I was surrounded by actual developers, I didn’t feel intimidated. This will definitely be a great resource for my journey.
 
-I even reached out to (one of the presenters)[https://twitter.com/AOrobator] and now I’m going to try my hands at Kotlin.
+I even reached out to [one of the presenters](https://twitter.com/AOrobator) and now I’m going to try my hands at Kotlin.
 
 **Links:**
 [Tweet 039](https://twitter.com/trobbierob/status/832432261102522368)

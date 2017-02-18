@@ -1,5 +1,59 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 17, 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Links:**
+[Tweet 040]()
+
+
+### Day 39: February 16, 2017
+
+**Today's Progress:** Android Meetup
+
+**Thoughts:** I went to my first Android meetup today. I really enjoy the CodeNewbie community, but I knew I also needed something more specific to what I was studying. I believe the group meets up once a month to go over best practices and to share stories and “gotcha moments” when programming. 
+
+I ended up meeting another developer, Suree (sp? - so sorry), who works on a cruise app, and we ended up chatting it up about bootcamps, the fears of networking, and few other topics. For once, although I was surrounded by actual developers, I didn’t feel intimidated. This will definitely be a great resource for my journey.
+
+I even reached out to (one of the presenters)[https://twitter.com/AOrobator] and now I’m going to try my hands at Kotlin.
+
+**Links:**
+[Tweet 039](https://twitter.com/trobbierob/status/832432261102522368)
+
+
+### Day 38: February 15, 2017
+
+**Today's Progress:** Udacity Part II
+
+**Thoughts:** Not much changed from the day before. 
+
+**Links:**
+[Tweet 038](https://twitter.com/trobbierob/status/832089880717049856)
+
+
+### Day 37: February 14, 2017
+
+**Today's Progress:** Udacity
+
+**Thoughts:** Today I pretty much went through a long list of videos to understand how data persistence and Android function together. I don’t fully get it, but I think if I rewatch everything a few times (maybe watch it once, then watch it again and follow along) and do the program exactly as they do it, it should start making sense. Then I would have a tangible example and I can modify from there. 
+
+**Links:**
+[Tweet 037](https://twitter.com/trobbierob/status/831714621102948354)
+
+
+### Day 36: February 13, 2017
+
+**Today's Progress:** Practice
+
+**Thoughts:** Working through the Codecademy tutorials seemed like a real easy way to work through databases. I think it was good for me to separate the Android from the database, just so that I had a good understanding of how they worked on their own.
+
+**Links:**
+[Tweet 036](https://twitter.com/trobbierob/status/831328832007335939)
+
+
 ### Day 35: February 12, 2017
 
 **Today's Progress:** SQLite

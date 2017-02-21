@@ -1,13 +1,46 @@
 # 100 Days Of Code - Log
 
-### Day 40: February 17, 2017
+### Day 43: February 20, 2017
 
-**Today's Progress:** 
+**Today's Progress:** Project X
 
-**Thoughts:** 
+**Thoughts:** I spent the better half of the day going through each step of the Pets app (demo of how databases work), and now I’m working on my own. There’s a few elements that I’m going to implement into my own project, but I think I want to see if I can add something extra - you know, to spice things up. It won’t give me any credit, but I think it will be a benefit to my final app due next month. It’s weird. There are times where I work on projects and I draw a blank on how to get things started, and there are times where my fingers do all the talking. I think the power is in consistent practice and keeping my mind open to all the tools around me.
+
+I’ve also been working on how I write my GitHub commits. I really want that to be a skill that I don’t have to think about.
 
 **Links:**
-[Tweet 040]()
+[Tweet 043](https://twitter.com/trobbierob/status/833877817284841476)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-20)
+
+
+### Day 42: February 19, 2017
+
+**Today's Progress:** Back at Udacity
+
+**Thoughts:** This intro to databases doesn’t seem too difficult, so I want to go through the right way step-by-step to make sure I understand what needs to go where, and the best practices to be able to test it. Learning about Contracts and the SQLiteOpenHelper really opened my eyes to how not-difficult things are. I don’t want to say easy because I know I couldn’t just throw up either methods off the top of my head, but at the same time it’s not impossible or beyond my skill.
+
+**Links:**
+[Tweet 042](https://twitter.com/trobbierob/status/833537705011183616)
+
+
+### Day 41: February 18, 2017
+
+**Today's Progress:** Old Concepts
+
+**Thoughts:** I spent the day reading my old Java book and refreshing myself on basic concepts. My initial reaction to programming is to create one giant class, and I wanted to break my mind out of that box by figuring out how one decides how to separate thoughts into classes. It’s really silly, but it is a habit I want to work on.
+
+**Links:**
+[Tweet 041](https://twitter.com/trobbierob/status/833133312180887552)
+
+
+### Day 40: February 17, 2017
+
+**Today's Progress:** Kotlin
+
+**Thoughts:** After my Android meetup I decided that I want to try my hands at working with Kotlin. A part of me feels like a baby learning multiple languages at the same time and confusing syntax. I also tried doing this while riding in a car. I don't know if it was because my side was heated to 80+ degrees, or if staring at a screen while riding gives me motion sickness, but my brain could not handle it. I think after my Nanodegree break I'll try and see if I can manually convert some programs into Kotlin. 
+
+**Links:**
+[Tweet 040](https://twitter.com/trobbierob/status/832793293461131265)
 
 
 ### Day 39: February 16, 2017

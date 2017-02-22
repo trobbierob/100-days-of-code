@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 21, 2017
+
+**Today's Progress:** Project X.a
+
+**Thoughts:** I could have probably been done with my project, but since I figured out how to add libraries, I've been playing with new concepts. Earlier today I spent a good 30 minutes trying to figure out how to add a SVG to my FAB. I added it correctly (I think). But, if I cleared the data from my database, it would disappear. I spent some time looking for a way to make it stay, but then I realized that there are more important things I could/should be doing on my project. I've got the dummy data. I will likely add some buttons, or something resembling a calendar just to do it. 
+
+For an app that doesn't need any UI components, I'm certainly not following directions.
+
+**Links:**
+[Tweet 044](https://twitter.com/trobbierob/status/834256859070660608)
+[Tweet](https://twitter.com/trobbierob/status/834088502396596226)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-21)
+
+
 ### Day 43: February 20, 2017
 
 **Today's Progress:** Project X

@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 22, 2017
+
+**Today's Progress:** Project X.b
+
+**Thoughts:** I've decided to lose the extra stuff that I thought about implementing. I did add a few Toasty toast and I'm trying to wrap my brain around how Butterknife works. I think I'll just get something working and incrementally get myself to a boss app.
+
+**Links:**
+[Tweet 045](https://twitter.com/trobbierob/status/834621235136970752)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-22)
+
+
 ### Day 44: February 21, 2017
 
 **Today's Progress:** Project X.a

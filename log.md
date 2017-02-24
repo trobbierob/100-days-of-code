@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 23, 2017
+
+**Today's Progress:** Project X.c
+
+**Thoughts:** Totally missed my tweet time, but I'm glad I shot off a commit in the morning to say I did something. It now inserts dummy data and data from a user. I need to add one more thing, but I can't think of a String or an int to put in to make sense. 
+
+However, my Toasty toast are dope...
+
+**Links:**
+[Tweet 046](https://twitter.com/trobbierob/status/835007250309722113)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-23)
+
+
 ### Day 45: February 22, 2017
 
 **Today's Progress:** Project X.b

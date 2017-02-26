@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 48: February 25, 2017
+
+**Today's Progress:** Project X.e
+
+**Thoughts:** I think I figured out what the issue was. I had created a column, but I was working off an old database that didn't have the column, so my code kept trying to access data that it never knew existed. I think we're almost ready to turn it in. 
+
+I'm glad I did that in the morning or I would've broken my streak.
+
+**Links:**
+[Tweet 048](https://twitter.com/trobbierob/status/835721645578936320)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-25)
+
+### Day 47: February 24, 2017
+
+**Today's Progress:** Project X.d
+
+**Thoughts:** I finally added checkboxes and what not to my project, but I came across a weird thing with my columns not working properly. I removed that code and will try again tomorrow.
+
+**Links:**
+[Tweet 047](https://twitter.com/trobbierob/status/835340634382819329)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-24)
+
+
 ### Day 46: February 23, 2017
 
 **Today's Progress:** Project X.c

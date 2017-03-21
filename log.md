@@ -1,5 +1,128 @@
 # 100 Days Of Code - Log
 
+
+### Day 70: March 19, 2017
+
+**Today's Progress:** I Graduated from the Android Basics Nanodegree
+
+**Thoughts:** Time to learn about Firebase.
+
+**Links:**
+[Tweet 070](https://twitter.com/trobbierob/status/843473303952113665)
+[Tweet](https://twitter.com/trobbierob/status/843484372649107456)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-03-19)
+
+
+### Day 69: March 18, 2017
+
+**Today's Progress:** I finally got the issue with the photos to stop crashing.
+
+**Links:**
+[Tweet 069](https://twitter.com/trobbierob/status/843293156338810880)
+
+
+### Day 68: March 17, 2017
+
+**Today's Progress:** Validation
+
+**Thoughts:** I've been spending a lot of time trying to make sure I validate the data properly. However, I either save a database item with no data, or I save an item with the wrong Toast messages.
+
+**Links:**
+[Tweet 068](https://twitter.com/trobbierob/status/842915370352762881)
+
+
+### Day 67: March 16, 2017
+
+**Today's Progress:** I think I went backwards
+
+**Thoughts:** I've been working on the issues hightlighted in my code review and I think I screwed up my input validation.
+
+**Links:**
+[Tweet 067](https://twitter.com/trobbierob/status/842575137786486786)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-03-16)
+
+
+### Day 66: March 15, 2017
+
+**Today's Progress:** 2 Down 3 To Go
+
+**Thoughts:** Making my way through some of these errors. Take it Bird by Bird.
+
+**Links:**
+[Tweet 066](https://twitter.com/trobbierob/status/842180284888059904)
+[GitHub](https://github.com/trobbierob?tab=overview&from=2017-03-15)
+
+
+### Day 65: March 14, 2017
+
+**Today's Progress:** Review Day
+
+**Thoughts:** And now we play the waiting game...
+
+**Links:**
+[Tweet 065](https://twitter.com/trobbierob/status/841806836651163648)
+
+
+### Day 64: March 13, 2017
+
+**Today's Progress:** Forums are Friends
+
+**Thoughts:** No, seriously. Read them!!
+
+**Links:**
+[Tweet 064](https://twitter.com/trobbierob/status/841461593183551488)
+
+
+### Day : March , 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Links:**
+[Tweet 0]()
+
+
+### Day : March , 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Links:**
+[Tweet 0]()
+
+
+### Day : March , 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Links:**
+[Tweet 0]()
+
+
+### Day : March , 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Links:**
+[Tweet 0]()
+
+
+### Day : March , 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Links:**
+[Tweet 0]()
+
+
 ### Day 48: February 25, 2017
 
 **Today's Progress:** Project X.e
@@ -11,6 +134,7 @@ I'm glad I did that in the morning or I would've broken my streak.
 **Links:**
 [Tweet 048](https://twitter.com/trobbierob/status/835721645578936320)
 [GitHub](https://github.com/trobbierob?tab=overview&from=2017-02-25)
+
 
 ### Day 47: February 24, 2017
 
